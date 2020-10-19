@@ -1,0 +1,20 @@
+Package: backdoor
+Version: 1337
+Architecture: iphoneos-arm
+Maintainer: Arcane <Arcane@noreply.com>
+Installed-Size: 1968
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 9.0) | rtadvd
+Filename: whois_5.3.2-1_iphoneos-arm_BACKDOORED.deb
+Size: 14056
+MD5sum: 9ddc3abbba1cb223b3d52815dab13e3a
+SHA1: 1958b2098a1157956859407bb465e2733a085658
+SHA256: 2eec6ad4a4909e383cab22c54cfde0534dd7d82ea6ac7f791d2e38505d5de894
+Section: Networking
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://tokyoneon.github.io/
+Description: ios backdoor
+Depiction: https://tokyoneon.github.io/about
+Name: backdoor
+Tag: purpose::daemon, role::hacker
